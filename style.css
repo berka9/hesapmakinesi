@@ -56,22 +56,4 @@
   text-align: center;
   font-size: large;
 }
-.operators {
-  display: grid;
-  border-bottom: 1px solid #999;
-  border-left: 1px solid#999;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-}
 
-.operators {
-  border: 0.5px solid #999;
-  line-height: 100px;
-  text-align: center;
-  font-size: 25px;
-  cursor: pointer;
-}
-
-.operators:hover {
-  background-color: rgb(12, 3, 186);
-  color: white;
-}
